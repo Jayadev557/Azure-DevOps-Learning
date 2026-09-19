@@ -218,24 +218,5 @@ Production Lab            ✅
 Interview Practice        ✅
 Documentation             ✅
 ```
-
-## Next
-
-**Day 2 – Git Fundamentals**
-
-Focus areas:
-
-```text
-Git repository
-Working tree
-Staging area
-Commits
-Branches
-Merge
-Rebase
-Remote repository
-Pull
-Push
-Pull Request
 Conflict resolution
 ```
