@@ -218,5 +218,3 @@ Production Lab            ✅
 Interview Practice        ✅
 Documentation             ✅
 ```
-Conflict resolution
-```
