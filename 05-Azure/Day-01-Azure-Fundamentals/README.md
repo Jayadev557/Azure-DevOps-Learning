@@ -283,5 +283,3 @@ Day 1 covered:
 * Scenario-based interview questions
 * Security practices
 
-
-**Day 2 — Azure Networking & Compute Fundamentals**
